@@ -147,7 +147,10 @@ div.gallery {
 img {
     border: solid 1px #004;
     height: auto;
-width: 100%;
+}
+
+.hero {
+    float: right;
 }
 
 div.gallery figure {
@@ -156,7 +159,7 @@ div.gallery figure {
 
 div.gallery figcaption {
     text-align: center;
-    font-size: 300;
+    font-size: 20px;
     font-weight: bolder;
     background-color: #f0e7e0;
     color: #007;
