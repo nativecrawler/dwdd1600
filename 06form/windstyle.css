@@ -187,11 +187,11 @@ div.gallery figcaption {
     margin: .5rem;
 }
 
-.myform label, .myform select, .myform [type=text], .myform [type=tel], .myform textarea {
+.myform label, .myform select, .myform [type=text], .myform [type=tel], .myform [type=email] .myform textarea {
     display: block;
 }
 
-.myform select, .myform [type=text], .myform [type=tel], .myform textarea {
+.myform select, .myform [type=text], .myform [type=tel], .myform[type=email] .myform textarea {
     border: solid 1px #004;
     padding: .3rem;
     width: 250px;
