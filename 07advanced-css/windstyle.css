@@ -1,3 +1,4 @@
+/*---body color here---*/
 *{box-sizing: border-box;}
 
 
@@ -199,8 +200,22 @@ img {
     height: auto;
 }
 
+img.freelance {
+    float: right;
+    width: 100%;
+    margin: 0;
+    width: 100%;
+    height: auto;
+    margin: 0;
+}
 .hero {
     float: right;
+}
+
+.hero img {
+    width: 100%;
+    height: auto;
+    margin: 0;
 }
 
 .hero figcaption {
