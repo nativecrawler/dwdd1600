@@ -196,7 +196,11 @@ nav li.active a {
 p {
     color: #007;
 }
-
+p.graphdraw {
+    background-color: #c2dde7;
+    color: whitesmoke;
+    padding: 4rem;
+}
 dl {
     color: #81010e;
 
